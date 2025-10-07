@@ -1,2 +1,6 @@
 Ligne écrite depuis la branche main
+ HEAD
 Ligne écrite depuis la branche main pour la seconde fois
+
+Ligne écrite depuis la branche conflict-test
+ conflict-test
